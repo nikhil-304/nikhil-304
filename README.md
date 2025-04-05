@@ -1,22 +1,29 @@
-<img align="right" height="210" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnkzeTg1YWk3ZW5sZXJub2NvejY4NXIyODZkNnRzbWF2NGt1dHE2MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qJzZ4APiDZQuJDY7vh/giphy.gif"  />
+<img src="Nikhil&apos;s Quote.png" alt="GitHub Banner" width="100%" />
 
-###
+<br clear="both">
 
 <h1 align="left">Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> What's up?</h1>
 
 ###
 
-<p align="left">💡My name is Nikhil Shrivastava — a dreamer in progress, learning the language of machines 🤖💻  <br>I believe in code that connects — not just systems, but souls 💫❤️‍🔥</p>
+<p align="left">💡 My name is Nikhil Shrivastava — a dreamer in progress, learning the language of machines 🤖💻  <br>I believe in code that connects — not just systems, but souls 💫❤️‍🔥</p>
 
-###
-
-<br clear="both">
 
 <h2 align="left">About me</h2>
 
 ###
 
-<p align="left">✨ Creating bugs since I wrote my first “Hello, World” —  and slowly learning how to turn them into features 😄🐞<br><br>📚 Currently exploring the beautiful chaos of JavaScript, sharpening my skills in web dev, and trying to master the art of async magic ⚡🌐<br><br>🎯 Goals:  <br>- Build software that feels like storytelling 📖💻  <br>- Contribute to open-source and give back to the dev world 🌍  <br>- Create digital products that help people — and maybe spark a smile 😊🚀<br><br>🎲 Fun fact:  <br>I use AI to help me talk like a poet, debug like Sherlock, and sometimes… to roast my own code at 3 AM 🧠💬☕</p>
+<p align="left">
+✨ Creating bugs since my first “Hello, World” — now learning to turn them into features 😄🐞<br><br>
+📚 Currently diving deep into JavaScript and the wild world of web dev ⚡🌐<br><br>
+🎯 Goals:<br>
+– Build software that tells stories 📖💻<br>
+– Contribute to open-source 🌍<br>
+– Craft tools that help — and maybe spark a smile 😊🚀<br><br>
+🎲 Fun fact:<br>
+AI helps me code & debug like Sherlock and roast my bugs at 3 AM 🧠💬☕
+</p>
+
 
 ###
 
@@ -53,10 +60,10 @@
 <div align="left">
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
   <img width="12" />
-  <img src="https://static.cdnlogo.com/logos/c/23/cursor.svg" height="40" alt="vscode logo"  />
+  <img src="https://static.cdnlogo.com/logos/c/23/cursor.svg" height="40" alt="cursor ai logo"  />
   <img width="12" />
-  <img src="https://exafunction.github.io/public/brand/windsurf-app-icon.png" height="40" alt="vscode logo"  />
-  <img src="https://ph-files.imgix.net/c4d77076-9008-48e5-b10c-8a03297e3781.png?auto=format" height="40" alt="vscode logo"  />
+  <img src="https://exafunction.github.io/public/brand/windsurf-app-icon.png" height="40" alt="windsurf ai logo"  />
+  <img src="https://ph-files.imgix.net/c4d77076-9008-48e5-b10c-8a03297e3781.png?auto=format" height="40" alt="trae ai logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="40" alt="ubuntu logo"  />
   <img width="12" />
@@ -75,34 +82,41 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nikhil-304&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=true&order=2" height="130" alt="languages graph"  />
 </div>
 
-###
-
-<h2 align="left">Let's Connect<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="32px"></h2>
-
-###
+### Let's Connect <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="32px">
 
 <div align="center">
-  <a href="https://linktr.ee/Nikhil_Shrivastava" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="42" height="30" alt="linktree logo"  />
-  </a>
-    <a href="mailto:nikhil.shrivastava304@gmail.com" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="30" alt="gmail logo" />
+ <a href="https://www.linkedin.com/in/nikhil304/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=Nikhil Shrivastava linkedin style="margin-bottom: 5px;" />
 </a>
-  <a href="https://www.linkedin.com/in/nikhil304/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo"  />
-  </a>
-  <a href="https://x.com/nikhilshri304" target="_blank">
-    <img src="https://assets1.chainstoreage.com/images/v/max_width_320/2023-07/twitter-x-logo.png" width="30" height="30" alt="twitter logo"  />
-  </a>
+  
+ <a href="https://github.com/nikhil-304" target="_blank">
+<img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt=Nikhil Shrivastava GitHub style="margin-bottom: 5px;" />
+</a>
+  
+ <a href="https://x.com/nikhilshri304" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=Nikhil Shrivastava twitter style="margin-bottom: 5px;" />
+</a>
 
+<a href="https://www.instagram.com/nikhil_shrivastava_304/" target="_blank">
+<img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white alt=Nikhil Shrivastava Instagram style="margin-bottom: 5px;" />
+</a>
+                                                                 
+<a href="https://www.youtube.com/@Nikhil.Shrivastava" target="_blank">
+<img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" alt=Nikhil Shrivastava YouTube style="margin-bottom: 5px;" />
+</a>
 
-  <a href="https://leetcode.com/u/Nikhil-Shrivastava/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"></a>
-  <a href="https://www.naukri.com/code360/profile/de628aec-f088-413c-aaf2-0ae976fe3c5a" target="_blank">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgxahtKadO7_RI-nMxFOcqZpwW3gCzghBITA&s" width="62" height="28" alt="gmail logo"  />
-  </a>
+<a href="https://leetcode.com/u/Nikhil-Shrivastava/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"></a>
+<a href="https://www.naukri.com/code360/profile/de628aec-f088-413c-aaf2-0ae976fe3c5a" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgxahtKadO7_RI-nMxFOcqZpwW3gCzghBITA&s" width="62" height="28" alt="code360 logo"  />
+</a>
+ 
+</div>  
 
 ###
 
-<img src="https://raw.githubusercontent.com/nikhil-304/nikhil-304/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
 
 ###
