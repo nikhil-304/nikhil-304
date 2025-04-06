@@ -1,25 +1,15 @@
-<img src="Nikhil&apos;s Quote.png" alt="GitHub Banner" width="100%" />
+<img src="github-banner.gif" alt="GitHub Banner" width="100%" />
 
-<br clear="both">
+<h1 align="left">Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> What's up? I'm Nikhil, a dreamer in progress, learning the language of machines 🤖💻</h1>
 
-<h1 align="left">Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> What's up?</h1>
-
-###
-
-<p align="left">💡 My name is Nikhil Shrivastava — a dreamer in progress, learning the language of machines 🤖💻  <br>I believe in code that connects — not just systems, but souls 💫❤️‍🔥</p>
-
-
-<h2 align="left">About me</h2>
-
-###
 
 <p align="left">
-✨ Creating bugs since my first “Hello, World” — now learning to turn them into features 😄🐞<br><br>
-📚 Currently diving deep into JavaScript and the wild world of web dev ⚡🌐<br><br>
+✨ Creating bugs since I wrote my first “Hello, World” —  and slowly learning how to turn them into features 😄🐞<br>
+📚 Currently exploring the beautiful chaos of JavaScript, sharpening my skills in web dev, and trying to master the art of async magic ⚡🌐<br>
 🎯 Goals:<br>
 – Build software that tells stories 📖💻<br>
 – Contribute to open-source 🌍<br>
-– Craft tools that help — and maybe spark a smile 😊🚀<br><br>
+– Create tools people don’t know they need — yet 🚀🌙️<br><br>
 🎲 Fun fact:<br>
 AI helps me code & debug like Sherlock and roast my bugs at 3 AM 🧠💬☕
 </p>
@@ -27,7 +17,7 @@ AI helps me code & debug like Sherlock and roast my bugs at 3 AM 🧠💬☕
 
 ###
 
-<h2 align="left">My Skills</h2>
+<h2 align="left">💪 My Skills:</h2>
 
 ###
 
@@ -53,7 +43,7 @@ AI helps me code & debug like Sherlock and roast my bugs at 3 AM 🧠💬☕
 
 ###
 
-<h2 align="left">My Dev Playground Tools</h2>
+<h2 align="left">💻 My Dev Playground Tools:</h2>
 
 ###
 
@@ -82,7 +72,7 @@ AI helps me code & debug like Sherlock and roast my bugs at 3 AM 🧠💬☕
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nikhil-304&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=true&order=2" height="130" alt="languages graph"  />
 </div>
 
-### Let's Connect <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="32px">
+### Let's Connect<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="32px">:
 
 <div align="center">
  <a href="https://www.linkedin.com/in/nikhil304/" target="_blank">
@@ -114,9 +104,9 @@ AI helps me code & debug like Sherlock and roast my bugs at 3 AM 🧠💬☕
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nikhil-304/nikhil-304/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nikhil-304/nikhil-304/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/nikhil-304/nikhil-304/output/github-snake.svg" />
 </picture>
 
 ###
