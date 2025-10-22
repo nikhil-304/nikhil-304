@@ -32,6 +32,17 @@ AI helps me code & debug like Sherlock and roast my bugs at 3 AM 🧠💬☕
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
+  <img src="./icons/TypeScript.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="./icons/GSAP.png" height="40" alt="gsap logo"  />
+  <img width="12" />
+  <img src="./icons/React.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img width="12" />
+  <img src="./icons/Vite.svg" height="40" alt="vite logo"  />
+  <img width="12" />
+  <img src="./icons/Storybook.svg" height="40" alt="storybook logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
@@ -39,6 +50,12 @@ AI helps me code & debug like Sherlock and roast my bugs at 3 AM 🧠💬☕
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo"  />
+  <img width="12" />
+  <img src="./icons/FastAPI.svg" height="40" alt="fastapi logo"  />
+  <img width="12" />
+  <img src="./icons/MySQL.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="./icons/MongoDB.svg" height="40" alt="mongodb logo"  />
 </div>
 
 ###
@@ -62,6 +79,13 @@ AI helps me code & debug like Sherlock and roast my bugs at 3 AM 🧠💬☕
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
+  <img width="12" />
+  <img src="./icons/HeroUI.png" height="40" alt="hero ui logo"  />
+  <img width="12" />
+  <img src="./icons/ChakraUI.svg" height="40" alt="chakra ui logo"  />
+  <img width="12" />
+  <img src="./icons/Lucide React.jpg" height="40" alt="adobephotoshop logo"  />
+
 </div>
 
 ###
@@ -78,11 +102,11 @@ AI helps me code & debug like Sherlock and roast my bugs at 3 AM 🧠💬☕
  <a href="https://www.linkedin.com/in/nikhil304/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=Nikhil Shrivastava linkedin style="margin-bottom: 5px;" />
 </a>
-  
+
  <a href="https://github.com/nikhil-304" target="_blank">
 <img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt=Nikhil Shrivastava GitHub style="margin-bottom: 5px;" />
 </a>
-  
+
  <a href="https://x.com/nikhilshri304" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=Nikhil Shrivastava twitter style="margin-bottom: 5px;" />
 </a>
@@ -90,7 +114,7 @@ AI helps me code & debug like Sherlock and roast my bugs at 3 AM 🧠💬☕
 <a href="https://www.instagram.com/nikhil_shrivastava_304/" target="_blank">
 <img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white alt=Nikhil Shrivastava Instagram style="margin-bottom: 5px;" />
 </a>
-                                                                 
+
 <a href="https://www.youtube.com/@Nikhil.Shrivastava" target="_blank">
 <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" alt=Nikhil Shrivastava YouTube style="margin-bottom: 5px;" />
 </a>
@@ -98,8 +122,8 @@ AI helps me code & debug like Sherlock and roast my bugs at 3 AM 🧠💬☕
 <a href="https://leetcode.com/u/Nikhil-Shrivastava/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"></a>
 <a href="https://www.naukri.com/code360/profile/de628aec-f088-413c-aaf2-0ae976fe3c5a" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgxahtKadO7_RI-nMxFOcqZpwW3gCzghBITA&s" width="62" height="28" alt="code360 logo"  />
 </a>
- 
-</div>  
+
+</div>
 
 ###
 
